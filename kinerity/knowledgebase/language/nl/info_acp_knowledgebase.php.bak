@@ -76,7 +76,6 @@ $lang = array_merge($lang, array(
 		2	=> 'Categorie succesvol verwijderd.<br /><br />Houd er rekening mee dat er %d artikels waren in deze categorie die reeds toebehoorde tot de nieuwe categorie. De volgende artikels werden <b><u>niet</u></b> verwijderd:<br />%s',
 	),	
 
-
 	'ACP_KNOWLEDGEBASE_MANAGE_EXPLAIN'			=> 'Vanaf deze pagina kunt u categorie&euml;n toevoegen, bewerken, verwijderen en sorteren. Een categorie is een groep van gerelateerde artikels. Elke categorie een ongelimiteerd aantal artikels bevatten.',
 	'ACP_KNOWLEDGEBASE_CATEGORY'				=> 'Categorie',
 	'ACP_KNOWLEDGEBASE_CREATE_CATEGORY'			=> 'Maak categorie',
